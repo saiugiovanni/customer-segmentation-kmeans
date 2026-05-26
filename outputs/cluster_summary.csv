@@ -1,0 +1,5 @@
+cluster,customers,share_pct,domestic,direct_debit,tenure_years,num_contracts,num_reminder_soft,num_reminder_hard,num_suspension_request,avg_issue_payment_days,avg_amount,supply_DUAL,supply_GAS,supply_POWER,num_reminders_year
+0,85973,21.27,0.77,0.19,4.01,1.26,2.0,1.48,0.15,51.66,197.45,0.0,0.0,1.0,0.92
+1,172700,42.73,0.94,0.16,6.96,2.81,1.82,1.7,0.14,48.43,279.58,1.0,0.0,0.0,0.6
+2,38884,9.62,0.83,0.06,5.52,2.67,5.32,7.79,3.47,86.41,298.56,0.73,0.11,0.16,2.74
+3,106632,26.38,0.93,0.2,10.63,1.2,1.51,1.06,0.11,50.2,190.54,0.0,1.0,0.0,0.4
